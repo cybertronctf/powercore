@@ -1,1 +1,1 @@
-print("powercore UPDATE2")
+print("powercore FIX2")
