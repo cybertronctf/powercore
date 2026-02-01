@@ -1,1 +1,1 @@
-print("powercore INSERT")
+print("powercore UPDATE")
