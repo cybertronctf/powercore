@@ -1,1 +1,0 @@
-print("powercore FIX2")
